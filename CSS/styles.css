@@ -1,3 +1,7 @@
+#mountain{
+max-width: 100%;
+}
+
 
 h1 {
     font-family: 'Sacramento', cursive;
@@ -61,6 +65,7 @@ p{
     
 }
 .image{
+    max-width:100%;
     height: 200px;
     width: 200px;
 }
